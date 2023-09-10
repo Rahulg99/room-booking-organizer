@@ -1,0 +1,15 @@
+{
+    "rooms": [
+        {"id": "Room101", "available_timestamp": "1693585822000"},
+        {"id": "Room102", "available_timestamp": "1693585822000"},
+        {"id": "Room103", "available_timestamp": "1693585822000"},
+        {"id": "Room104", "available_timestamp": "1693585822000"}
+    ],
+    "users": [
+        {"username": "joy", "password": "sen"},
+        {"username": "joyy", "password": "senn"}
+    ],
+    "meetings": [
+        
+    ]
+}
